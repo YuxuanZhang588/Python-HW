@@ -1,5 +1,5 @@
 ## Problem Solving in Python (CSC121, Fall 2019)
-This repository contains the homework assignments and projects from my CSC121 Problem Solving class. The course focused on foundational programming concepts in Python, with an emphasis on developing problem-solving skills through writing clean, efficient, and logical code. We also explored object-oriented programming (OOP) concepts to structure code in a more modular and reusable way.
+This repository contains the homework assignments and projects from my CSC121 Problem Solving class. The course focused on foundational programming concepts in Python, with an emphasis on developing problem-solving skills through writing clean, efficient, and logical code. We also explored object-oriented programming concepts to structure code in a more modular and reusable way.
 ### Topics Covered
 - Lists and Arrays: Working with sequences of data, list comprehensions, and array manipulations.
 - Dictionaries: Key-value pair data structures, common dictionary operations, and use cases.
